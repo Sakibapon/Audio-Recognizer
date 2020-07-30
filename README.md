@@ -3,4 +3,4 @@ Audio-Recognizer : A web based application which can identify audio-tracks and d
 
 You must have heard about Shazam, this application is kind a mimic of it.
 
-Technology : Spring Boot, REST API, Spring MVC, JacoMP3 libraries, Java Core.
+Technology : Spring Boot, REST API, Spring MVC, JacoMP3 libraries, Java Core
